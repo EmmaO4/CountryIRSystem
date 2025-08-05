@@ -1,0 +1,6 @@
+Access to clean fuels and technologies for cooking (% of population) (EG.CFT.ACCS.ZS)
+Access to electricity (% of population) (EG.ELC.ACCS.ZS)
+Individuals using the Internet (% of population) (IT.NET.USER.ZS)
+Death rate, crude (per 1,000 people) (SP.DYN.CDRT.IN)
+Population density (people per sq. km of land area) (EN.POP.DNST)
+Proportion of people living below 50 percent of median income (%) (SI.DST.50MD)
