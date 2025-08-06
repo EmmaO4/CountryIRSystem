@@ -1,3 +1,4 @@
+from country import Country
 import csv
 
 def main(): 
@@ -7,14 +8,26 @@ def main():
         if not reader.fieldnames:
             print("no data")
 
-        country_names = []
+        bulk_countries = []
     
         for line in reader:
-            country_names.append(line['Country Name'])
+
+            country = Country(None, None, None, None)
+    
+            country.set_country_name(line['Country Name'])
+            country.set_country_code(line['Country Code'])
+            country.set_series_name(line['Series Name'])
+            country.set_series_code(line['Series Code'])
+            # country.set_country_name(line['Year'])
         
-        if country_names:
-            set_cnames = set(country_names)
-            print(set_cnames)
+            bulk_countries.append(country)
+        
+        countries = set(bulk_countries)
+        # print(bulk_countries)
+        # print("****")
+
+        for country in countries:
+            print(country)
 
         file.close()
 
