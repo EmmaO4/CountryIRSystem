@@ -2,4 +2,5 @@ This information Retrieval System project is based off data gathered from: https
 
 Purpose:
     Practice data processing over real data
+    
     Practice DSA implementation and scripting 
