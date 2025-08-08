@@ -1,124 +1,124 @@
-Country Name,Country Code,Series Name,Series Code,2024 [YR2024]
-Argentina,ARG,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,..
-Argentina,ARG,Access to electricity (% of population),EG.ELC.ACCS.ZS,..
-Argentina,ARG,Individuals using the Internet (% of population),IT.NET.USER.ZS,..
-Argentina,ARG,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,..
-Argentina,ARG,Population density (people per sq. km of land area),EN.POP.DNST,..
-Argentina,ARG,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,..
-United States,USA,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,..
-United States,USA,Access to electricity (% of population),EG.ELC.ACCS.ZS,..
-United States,USA,Individuals using the Internet (% of population),IT.NET.USER.ZS,..
-United States,USA,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,..
-United States,USA,Population density (people per sq. km of land area),EN.POP.DNST,..
-United States,USA,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,..
-United Kingdom,GBR,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,..
-United Kingdom,GBR,Access to electricity (% of population),EG.ELC.ACCS.ZS,..
-United Kingdom,GBR,Individuals using the Internet (% of population),IT.NET.USER.ZS,..
-United Kingdom,GBR,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,..
-United Kingdom,GBR,Population density (people per sq. km of land area),EN.POP.DNST,..
-United Kingdom,GBR,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,..
-Canada,CAN,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,..
-Canada,CAN,Access to electricity (% of population),EG.ELC.ACCS.ZS,..
-Canada,CAN,Individuals using the Internet (% of population),IT.NET.USER.ZS,..
-Canada,CAN,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,..
-Canada,CAN,Population density (people per sq. km of land area),EN.POP.DNST,..
-Canada,CAN,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,..
-Mexico,MEX,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,..
-Mexico,MEX,Access to electricity (% of population),EG.ELC.ACCS.ZS,..
-Mexico,MEX,Individuals using the Internet (% of population),IT.NET.USER.ZS,..
-Mexico,MEX,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,..
-Mexico,MEX,Population density (people per sq. km of land area),EN.POP.DNST,..
-Mexico,MEX,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,..
-Germany,DEU,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,..
-Germany,DEU,Access to electricity (% of population),EG.ELC.ACCS.ZS,..
-Germany,DEU,Individuals using the Internet (% of population),IT.NET.USER.ZS,93.5
-Germany,DEU,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,..
-Germany,DEU,Population density (people per sq. km of land area),EN.POP.DNST,..
-Germany,DEU,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,..
-Brazil,BRA,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,..
-Brazil,BRA,Access to electricity (% of population),EG.ELC.ACCS.ZS,..
-Brazil,BRA,Individuals using the Internet (% of population),IT.NET.USER.ZS,..
-Brazil,BRA,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,..
-Brazil,BRA,Population density (people per sq. km of land area),EN.POP.DNST,..
-Brazil,BRA,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,..
-China,CHN,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,..
-China,CHN,Access to electricity (% of population),EG.ELC.ACCS.ZS,..
-China,CHN,Individuals using the Internet (% of population),IT.NET.USER.ZS,..
-China,CHN,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,..
-China,CHN,Population density (people per sq. km of land area),EN.POP.DNST,..
-China,CHN,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,..
-Chile,CHL,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,..
-Chile,CHL,Access to electricity (% of population),EG.ELC.ACCS.ZS,..
-Chile,CHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,..
-Chile,CHL,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,..
-Chile,CHL,Population density (people per sq. km of land area),EN.POP.DNST,..
-Chile,CHL,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,..
-Cuba,CUB,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,..
-Cuba,CUB,Access to electricity (% of population),EG.ELC.ACCS.ZS,..
-Cuba,CUB,Individuals using the Internet (% of population),IT.NET.USER.ZS,..
-Cuba,CUB,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,..
-Cuba,CUB,Population density (people per sq. km of land area),EN.POP.DNST,..
+Country Name,Country Code,Series Name,Series Code,2020 [YR2020]
+Argentina,ARG,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,99.9
+Argentina,ARG,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Argentina,ARG,Individuals using the Internet (% of population),IT.NET.USER.ZS,85.5
+Argentina,ARG,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,8.45
+Argentina,ARG,Population density (people per sq. km of land area),EN.POP.DNST,16.5133665121004
+Argentina,ARG,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,20.9
+Brazil,BRA,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,96.4
+Brazil,BRA,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.7
+Brazil,BRA,Individuals using the Internet (% of population),IT.NET.USER.ZS,81.3
+Brazil,BRA,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,7.502
+Brazil,BRA,Population density (people per sq. km of land area),EN.POP.DNST,24.9649852718428
+Brazil,BRA,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,18.3
+Canada,CAN,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100
+Canada,CAN,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Canada,CAN,Individuals using the Internet (% of population),IT.NET.USER.ZS,92.3
+Canada,CAN,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,8.1
+Canada,CAN,Population density (people per sq. km of land area),EN.POP.DNST,4.24162135453439
+Canada,CAN,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,9
+Chile,CHL,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100
+Chile,CHL,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Chile,CHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,87.5
+Chile,CHL,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,7.393
+Chile,CHL,Population density (people per sq. km of land area),EN.POP.DNST,26.0521726031966
+Chile,CHL,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,15.5
+China,CHN,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,83.8
+China,CHN,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+China,CHN,Individuals using the Internet (% of population),IT.NET.USER.ZS,70.1
+China,CHN,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,7.07
+China,CHN,Population density (people per sq. km of land area),EN.POP.DNST,150.305542803154
+China,CHN,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,11.9
+Colombia,COL,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,92.6
+Colombia,COL,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.7
+Colombia,COL,Individuals using the Internet (% of population),IT.NET.USER.ZS,69.8
+Colombia,COL,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,6.621
+Colombia,COL,Population density (people per sq. km of land area),EN.POP.DNST,45.6331653898152
+Colombia,COL,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,22.2
+Cuba,CUB,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,94.7
+Cuba,CUB,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.9
+Cuba,CUB,Individuals using the Internet (% of population),IT.NET.USER.ZS,71.1
+Cuba,CUB,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,10.403
+Cuba,CUB,Population density (people per sq. km of land area),EN.POP.DNST,107.672003853565
 Cuba,CUB,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,..
-Japan,JPN,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,..
-Japan,JPN,Access to electricity (% of population),EG.ELC.ACCS.ZS,..
-Japan,JPN,Individuals using the Internet (% of population),IT.NET.USER.ZS,..
-Japan,JPN,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,..
-Japan,JPN,Population density (people per sq. km of land area),EN.POP.DNST,..
-Japan,JPN,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,..
-Italy,ITA,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,..
-Italy,ITA,Access to electricity (% of population),EG.ELC.ACCS.ZS,..
-Italy,ITA,Individuals using the Internet (% of population),IT.NET.USER.ZS,..
-Italy,ITA,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,..
-Italy,ITA,Population density (people per sq. km of land area),EN.POP.DNST,..
-Italy,ITA,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,..
-Colombia,COL,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,..
-Colombia,COL,Access to electricity (% of population),EG.ELC.ACCS.ZS,..
-Colombia,COL,Individuals using the Internet (% of population),IT.NET.USER.ZS,..
-Colombia,COL,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,..
-Colombia,COL,Population density (people per sq. km of land area),EN.POP.DNST,..
-Colombia,COL,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,..
-Thailand,THA,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,..
-Thailand,THA,Access to electricity (% of population),EG.ELC.ACCS.ZS,..
-Thailand,THA,Individuals using the Internet (% of population),IT.NET.USER.ZS,..
-Thailand,THA,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,..
-Thailand,THA,Population density (people per sq. km of land area),EN.POP.DNST,..
-Thailand,THA,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,..
-Ethiopia,ETH,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,..
-Ethiopia,ETH,Access to electricity (% of population),EG.ELC.ACCS.ZS,..
-Ethiopia,ETH,Individuals using the Internet (% of population),IT.NET.USER.ZS,..
-Ethiopia,ETH,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,..
-Ethiopia,ETH,Population density (people per sq. km of land area),EN.POP.DNST,..
-Ethiopia,ETH,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,..
-"Egypt, Arab Rep.",EGY,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,..
-"Egypt, Arab Rep.",EGY,Access to electricity (% of population),EG.ELC.ACCS.ZS,..
-"Egypt, Arab Rep.",EGY,Individuals using the Internet (% of population),IT.NET.USER.ZS,..
-"Egypt, Arab Rep.",EGY,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,..
-"Egypt, Arab Rep.",EGY,Population density (people per sq. km of land area),EN.POP.DNST,..
+"Egypt, Arab Rep.",EGY,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,99.9
+"Egypt, Arab Rep.",EGY,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+"Egypt, Arab Rep.",EGY,Individuals using the Internet (% of population),IT.NET.USER.ZS,71.9
+"Egypt, Arab Rep.",EGY,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,6.407
+"Egypt, Arab Rep.",EGY,Population density (people per sq. km of land area),EN.POP.DNST,109.814781254709
 "Egypt, Arab Rep.",EGY,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,..
-Jamaica,JAM,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,..
-Jamaica,JAM,Access to electricity (% of population),EG.ELC.ACCS.ZS,..
-Jamaica,JAM,Individuals using the Internet (% of population),IT.NET.USER.ZS,..
-Jamaica,JAM,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,..
-Jamaica,JAM,Population density (people per sq. km of land area),EN.POP.DNST,..
-Jamaica,JAM,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,..
-Iraq,IRQ,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,..
-Iraq,IRQ,Access to electricity (% of population),EG.ELC.ACCS.ZS,..
-Iraq,IRQ,Individuals using the Internet (% of population),IT.NET.USER.ZS,..
-Iraq,IRQ,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,..
-Iraq,IRQ,Population density (people per sq. km of land area),EN.POP.DNST,..
+Ethiopia,ETH,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,7.4
+Ethiopia,ETH,Access to electricity (% of population),EG.ELC.ACCS.ZS,51.1
+Ethiopia,ETH,Individuals using the Internet (% of population),IT.NET.USER.ZS,16.1
+Ethiopia,ETH,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,6.403
+Ethiopia,ETH,Population density (people per sq. km of land area),EN.POP.DNST,105.370090895445
+Ethiopia,ETH,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,..
+Germany,DEU,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100
+Germany,DEU,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Germany,DEU,Individuals using the Internet (% of population),IT.NET.USER.ZS,89.8
+Germany,DEU,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,11.9
+Germany,DEU,Population density (people per sq. km of land area),EN.POP.DNST,238.017318755545
+Germany,DEU,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,11
+Iraq,IRQ,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,99.3
+Iraq,IRQ,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Iraq,IRQ,Individuals using the Internet (% of population),IT.NET.USER.ZS,53.7
+Iraq,IRQ,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,4.997
+Iraq,IRQ,Population density (people per sq. km of land area),EN.POP.DNST,97.0142561640806
 Iraq,IRQ,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,..
-Spain,ESP,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,..
-Spain,ESP,Access to electricity (% of population),EG.ELC.ACCS.ZS,..
-Spain,ESP,Individuals using the Internet (% of population),IT.NET.USER.ZS,..
-Spain,ESP,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,..
-Spain,ESP,Population density (people per sq. km of land area),EN.POP.DNST,..
-Spain,ESP,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,..
-Qatar,QAT,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,..
-Qatar,QAT,Access to electricity (% of population),EG.ELC.ACCS.ZS,..
-Qatar,QAT,Individuals using the Internet (% of population),IT.NET.USER.ZS,..
-Qatar,QAT,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,..
-Qatar,QAT,Population density (people per sq. km of land area),EN.POP.DNST,..
+Italy,ITA,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100
+Italy,ITA,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Italy,ITA,Individuals using the Internet (% of population),IT.NET.USER.ZS,70.5
+Italy,ITA,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,12.5
+Italy,ITA,Population density (people per sq. km of land area),EN.POP.DNST,200.999100491348
+Italy,ITA,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,15.6
+Jamaica,JAM,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,76.4
+Jamaica,JAM,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.7
+Jamaica,JAM,Individuals using the Internet (% of population),IT.NET.USER.ZS,76.4
+Jamaica,JAM,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,7.717
+Jamaica,JAM,Population density (people per sq. km of land area),EN.POP.DNST,261.379409048938
+Jamaica,JAM,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,..
+Japan,JPN,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100
+Japan,JPN,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Japan,JPN,Individuals using the Internet (% of population),IT.NET.USER.ZS,90.2
+Japan,JPN,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,11.1
+Japan,JPN,Population density (people per sq. km of land area),EN.POP.DNST,346.395061728395
+Japan,JPN,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,13.5
+Mexico,MEX,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,85.4
+Mexico,MEX,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.4
+Mexico,MEX,Individuals using the Internet (% of population),IT.NET.USER.ZS,71.5
+Mexico,MEX,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,8.429
+Mexico,MEX,Population density (people per sq. km of land area),EN.POP.DNST,65.227528485815
+Mexico,MEX,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,16.1
+Qatar,QAT,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100
+Qatar,QAT,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Qatar,QAT,Individuals using the Internet (% of population),IT.NET.USER.ZS,99.7
+Qatar,QAT,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,1.053
+Qatar,QAT,Population density (people per sq. km of land area),EN.POP.DNST,243.180852915579
 Qatar,QAT,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,..
+Spain,ESP,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100
+Spain,ESP,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Spain,ESP,Individuals using the Internet (% of population),IT.NET.USER.ZS,93.2
+Spain,ESP,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,10.4
+Spain,ESP,Population density (people per sq. km of land area),EN.POP.DNST,94.802910688937
+Spain,ESP,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,16.5
+Thailand,THA,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,84.3
+Thailand,THA,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Thailand,THA,Individuals using the Internet (% of population),IT.NET.USER.ZS,77.8
+Thailand,THA,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,7.618
+Thailand,THA,Population density (people per sq. km of land area),EN.POP.DNST,140.228785061364
+Thailand,THA,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,10.6
+United Kingdom,GBR,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100
+United Kingdom,GBR,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+United Kingdom,GBR,Individuals using the Internet (% of population),IT.NET.USER.ZS,94.8
+United Kingdom,GBR,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,10.268
+United Kingdom,GBR,Population density (people per sq. km of land area),EN.POP.DNST,275.881453312942
+United Kingdom,GBR,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,11.5
+United States,USA,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100
+United States,USA,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+United States,USA,Individuals using the Internet (% of population),IT.NET.USER.ZS,90.3
+United States,USA,"Death rate, crude (per 1,000 people)",SP.DYN.CDRT.IN,10.27
+United States,USA,Population density (people per sq. km of land area),EN.POP.DNST,36.248222996211
+United States,USA,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,17
 ,,,,
 ,,,,
 ,,,,
